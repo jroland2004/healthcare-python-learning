@@ -11,3 +11,6 @@ print(f"Total number of patients waiting: {len(waiting_room)}" )
 
 for name in waiting_room:
     print(f"Calling: {name}")
+
+
+

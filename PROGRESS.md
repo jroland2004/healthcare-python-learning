@@ -17,7 +17,7 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - [x] Exercise 2: Comprehensive vital signs checker (HR, BP, O2, Temp)
 - [x] Exercise 3: Patient queue (lists and while loops)
 - [x] Exercise 4: Patient record (dictionaries)
-- [ ] Exercise 5: Multi-patient vital signs tracker
+- [x] Exercise 5: Multi-patient vital signs tracker
 
 ### Week 3: Functions & Modules
 - [ ] Not started
@@ -48,6 +48,12 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - While loops with break
 - For loops
 - Dictionaries (creating, accessing, updating, iterating)
+- Use if/elif/else for decision making
+- Work with lists (append, iterate, len)
+- Work with dictionaries (create, access, update)
+- Combine lists and dictionaries
+- Use while loops with break
+- Use for loops to iterate through collections
 
 ## Notes
 - Using snake_case for variable names (Python convention)
@@ -63,3 +69,4 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - vitals_checker.py
 - patient_queue.py
 - patient_record.py
+- multi_patient_tracker.py

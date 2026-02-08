@@ -23,14 +23,14 @@ def classify_bmi(bmi):
         bmi_flag = "Obese"
     return bmi_flag
 
+if __name__ == "__main__":
+    patient_weight = float(input("Enter patient's weight in pounds: "))
+    patient_height = float(input("Enter patient's height in inches: "))
 
-patient_weight = float(input("Enter patient's weight in pounds: "))
-patient_height = float(input("Enter patient's height in inches: "))
-
-weight_kg = convert_to_kg(patient_weight)
-height_m = convert_to_m(patient_height)
-bmi = calculate_bmi(weight_kg, height_m)
-bmi_class = classify_bmi(bmi)
+    weight_kg = convert_to_kg(patient_weight)
+    height_m = convert_to_m(patient_height)
+    bmi = calculate_bmi(weight_kg, height_m)
+    bmi_class = classify_bmi(bmi)
 
 
-print(f"Patient's BMI is {bmi:.1f}. Patient's BMI classification is {bmi_class}")
+    print(f"Patient's BMI is {bmi:.1f}. Patient's BMI classification is {bmi_class}")

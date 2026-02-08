@@ -46,16 +46,16 @@ def get_vitals_summary(hr, systolic, diastolic, temp, o2_sat):
     }
     return vitals_summary
 
+if __name__ == "__main__":
+    hr = int(input("Enter the patient's heart rate: "))
+    systolic = int(input("Enter the patient's systolic blood pressure: "))
+    diastolic = int(input("Enter the patient's diastolic bloos pressure: "))
+    temp = float(input("Enter patient's temperature: "))
+    o2_sat = int(input("Enter the patient's oxygen saturation: "))
 
-hr = int(input("Enter the patient's heart rate: "))
-systolic = int(input("Enter the patient's systolic blood pressure: "))
-diastolic = int(input("Enter the patient's diastolic bloos pressure: "))
-temp = float(input("Enter patient's temperature: "))
-o2_sat = int(input("Enter the patient's oxygen saturation: "))
-
-patient_vital_summary = get_vitals_summary(hr, systolic, diastolic, temp, o2_sat)
+    patient_vital_summary = get_vitals_summary(hr, systolic, diastolic, temp, o2_sat)
 
 
-print("---Patient's Vital Summary---")
-for vital, result in patient_vital_summary.items():
-    print(f" {vital}: {result}")
+    print("---Patient's Vital Summary---")
+    for vital, result in patient_vital_summary.items():
+        print(f" {vital}: {result}")

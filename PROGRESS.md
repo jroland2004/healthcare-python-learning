@@ -20,7 +20,10 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - [x] Exercise 5: Multi-patient vital signs tracker
 
 ### Week 3: Functions & Modules
-- [ ] Not started
+- [x] Exercise 1: Clinical calculators as functions (BMI functions in clinical_functions.py)
+- [x] Exercise 2: Vital signs assessment functions (vitals_functions.py)
+- [x] Exercise 3: Using your functions as a module (patient_assessment.py)
+- [x] Exercise 4: Building a clinical calculator module (clinical_calc.py and test_clinical_calc.py)
 
 ### Week 4: File Handling & Error Management
 - [ ] Not started
@@ -54,6 +57,13 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Combine lists and dictionaries
 - Use while loops with break
 - Use for loops to iterate through collections
+- Defining functions with def
+- Parameters and return values
+- Default parameters (is_female=False)
+- Importing functions from modules
+- Use if __name__ == "__main__": to prevent code from running on import
+- Build a reusable module
+- Rounding with round()
 
 ## Notes
 - Using snake_case for variable names (Python convention)
@@ -70,3 +80,8 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - patient_queue.py
 - patient_record.py
 - multi_patient_tracker.py
+- clinical_functions.py
+- vitals_functions.py
+- patient_assessment.py
+- clinical_calc.py
+- test_clinical_calc.py 

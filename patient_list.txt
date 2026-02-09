@@ -1,0 +1,4 @@
+John Smith, 45, Hypertension
+Maria Garcia, 62, Diabetes
+Robert Johnson, 38, Asthma
+Sarah Williams, 55, Arthritis

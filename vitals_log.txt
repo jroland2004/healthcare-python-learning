@@ -1,0 +1,4 @@
+John Smith, 72, 120, 80, 98.6, 98
+Maria Garcia, 88, 145, 92, 99.1, 95
+Robert Johnson, 58, 118, 76, 97.8, 99
+Sarah Williams, 105, 132, 85, 101.2, 94

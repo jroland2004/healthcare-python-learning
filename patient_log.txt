@@ -1,0 +1,4 @@
+Jason, 45, Hypertension
+Brooke, 43, Tachycardia
+Jacob, 23, Hypotension
+Sara, 85, Hypothyroidism

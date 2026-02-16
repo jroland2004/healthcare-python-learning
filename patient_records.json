@@ -1,0 +1,70 @@
+[
+  {
+    "name": "John Smith",
+    "age": 45,
+    "vitals": {
+      "heart_rate": 72,
+      "systolic": 120,
+      "diastolic": 80,
+      "temp": 98.6,
+      "o2_sat": 98.0
+    },
+    "assessments": {
+      "heart_rate": "Normal",
+      "blood_pressure": "Normal BP",
+      "temperature": "Normal",
+      "oxygen": "Normal"
+    }
+  },
+  {
+    "name": "Maria Garcia",
+    "age": 62,
+    "vitals": {
+      "heart_rate": 88,
+      "systolic": 145,
+      "diastolic": 92,
+      "temp": 99.1,
+      "o2_sat": 95.0
+    },
+    "assessments": {
+      "heart_rate": "Normal",
+      "blood_pressure": "Hypertensive",
+      "temperature": "Low-grade fever",
+      "oxygen": "Normal"
+    }
+  },
+  {
+    "name": "Robert Johnson",
+    "age": 38,
+    "vitals": {
+      "heart_rate": 58,
+      "systolic": 118,
+      "diastolic": 76,
+      "temp": 97.8,
+      "o2_sat": 99.0
+    },
+    "assessments": {
+      "heart_rate": "Bradycardia",
+      "blood_pressure": "Normal BP",
+      "temperature": "Normal",
+      "oxygen": "Normal"
+    }
+  },
+  {
+    "name": "Sarah Williams",
+    "age": 55,
+    "vitals": {
+      "heart_rate": 105,
+      "systolic": 132,
+      "diastolic": 85,
+      "temp": 101.2,
+      "o2_sat": 94.0
+    },
+    "assessments": {
+      "heart_rate": "Tachycardia",
+      "blood_pressure": "Normal BP",
+      "temperature": "Fever",
+      "oxygen": "Low - monitor closely"
+    }
+  }
+]

@@ -53,8 +53,9 @@ class VitalSigns:
         }
         return vitals_summary
 
-patient1 = VitalSigns(54, 120, 92, 99, 93)
+if __name__ == "__main__":
+    patient1 = VitalSigns(54, 120, 92, 99, 93)
 
-print("---Patient Vitals Sumamry---")
-print()
-print(patient1.get_summary())
+    print("---Patient Vitals Sumamry---")
+    print()
+    print(patient1.get_summary())

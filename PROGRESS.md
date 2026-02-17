@@ -26,7 +26,15 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - [x] Exercise 4: Building a clinical calculator module (clinical_calc.py and test_clinical_calc.py)
 
 ### Week 4: File Handling & Error Management
-- [ ] Not started
+- [x]Exercise 1: Patient file reader (file_reader.py)
+- [x] Exercise 2: Patient parser (patient_parser.py)
+- [x] Exercise 2b: Vital signs file processor (vitals_processor.py)
+- [x] Exercise 2c: Vital signs with assessments (updated vitals_processor.py)
+- [x] Exercise 3: Patient data logger (patient_logger.py)
+- [x] Exercise 4: CSV patient processor (csv_processor.py)
+- [x] Exercise 5: JSON patient records (json_processor.py)
+- [x] Exercise 6: Robust file reader (safe_reader.py)
+- [x] Exercise 7: Robust patient intake (safe_patient_intake.py)
 
 ### Week 5: Object-Oriented Programming Basics
 - [ ] Not started
@@ -64,6 +72,15 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Use if __name__ == "__main__": to prevent code from running on import
 - Build a reusable module
 - Rounding with round()
+- Reading files with open() and with context manager
+- Writing and appending to files ("w" and "a" modes)
+- Parsing text with .strip() and .split()
+- Using the csv module with DictReader
+- Working with JSON using json.load() and json.dump()
+- Creating nested dictionaries
+- Error handling with try/except
+- Handling FileNotFoundError and ValueError
+- Creating loops that retry until valid input is received
 
 ## Notes
 - Using snake_case for variable names (Python convention)
@@ -85,3 +102,11 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - patient_assessment.py
 - clinical_calc.py
 - test_clinical_calc.py 
+- file_reader.py
+- patient_parser.py
+- vitals_processor.py
+- patient_logger.py
+- csv_processor.py
+- json_processor.py
+- safe_reader.py
+- safe_patient_intake.py

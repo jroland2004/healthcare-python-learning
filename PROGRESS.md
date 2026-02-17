@@ -26,7 +26,7 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - [x] Exercise 4: Building a clinical calculator module (clinical_calc.py and test_clinical_calc.py)
 
 ### Week 4: File Handling & Error Management
-- [x]Exercise 1: Patient file reader (file_reader.py)
+- [x] Exercise 1: Patient file reader (file_reader.py)
 - [x] Exercise 2: Patient parser (patient_parser.py)
 - [x] Exercise 2b: Vital signs file processor (vitals_processor.py)
 - [x] Exercise 2c: Vital signs with assessments (updated vitals_processor.py)

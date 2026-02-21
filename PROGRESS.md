@@ -37,7 +37,11 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - [x] Exercise 7: Robust patient intake (safe_patient_intake.py)
 
 ### Week 5: Object-Oriented Programming Basics
-- [ ] Not started
+- [x] Exercise 1: Basic Patient class (patient_class.py)
+- [x] Exercise 2: VitalSigns class (vitals_class.py)
+- [x] Exercise 3: Patient with VitalSigns (patient_with_vitals.py)
+- [x] Exercise 4: Methods that modify data (update_vitals, birthday)
+- [x] Exercise 5: Ward management system (ward_system.py)
 
 ## Environment Setup
 - [x] Python 3.12 installed via Homebrew
@@ -81,6 +85,15 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Error handling with try/except
 - Handling FileNotFoundError and ValueError
 - Creating loops that retry until valid input is received
+- Defining classes with class
+- The __init__ method for initializing objects
+- Using self to reference object attributes
+- Creating methods that read data
+- Creating methods that modify data
+- Combining classes (Patient with VitalSigns, Ward with Beds)
+- Default attribute values (setting to None without requiring a parameter)
+- Objects containing other objects (composition)
+- Looping through lists of objects
 
 ## Notes
 - Using snake_case for variable names (Python convention)
@@ -110,3 +123,7 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - json_processor.py
 - safe_reader.py
 - safe_patient_intake.py
+- patient_class.py
+- vitals_class.py
+- patient_with_vitals.py
+- ward_system.py

@@ -52,7 +52,14 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Why the venv folder shouldn't be committed to Git
 
 ### Week 7: Git, GitHub & Development Workflow
--(Currently working on)
+- git status — check current state
+- git log --oneline — view commit history
+- git diff — see changes before staging
+- git checkout -b branch-name — create and switch to a new branch
+- git branch — list all branches
+- git checkout main — switch back to main
+- git merge branch-name — merge changes into current branch
+- git branch -d branch-name — delete a branch
 
 ## Environment Setup
 - [x] Python 3.12 installed via Homebrew
@@ -105,6 +112,11 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Default attribute values (setting to None without requiring a parameter)
 - Objects containing other objects (composition)
 - Looping through lists of objects
+- Creating and managing virtual environments
+- Installing packages with pip
+- Saving dependencies with requirements.txt
+- Git branching and merging workflow
+- Understanding working directory, staging area, and repository
 
 ## Notes
 - Using snake_case for variable names (Python convention)

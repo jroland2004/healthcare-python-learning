@@ -51,6 +51,9 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Restoring environments with pip install -r requirements.txt
 - Why the venv folder shouldn't be committed to Git
 
+### Week 7: Git, GitHub & Development Workflow
+-(Currently working on)
+
 ## Environment Setup
 - [x] Python 3.12 installed via Homebrew
 - [x] VS Code configured with Python extensions

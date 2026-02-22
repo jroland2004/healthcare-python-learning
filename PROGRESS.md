@@ -43,6 +43,14 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - [x] Exercise 4: Methods that modify data (update_vitals, birthday)
 - [x] Exercise 5: Ward management system (ward_system.py)
 
+### Week 6: Virtual Environments & Package Management
+- Creating virtual environments with python3 -m venv venv
+- Activating with source venv/bin/activate
+- Installing packages with pip install
+- Saving dependencies with pip freeze > requirements.txt
+- Restoring environments with pip install -r requirements.txt
+- Why the venv folder shouldn't be committed to Git
+
 ## Environment Setup
 - [x] Python 3.12 installed via Homebrew
 - [x] VS Code configured with Python extensions

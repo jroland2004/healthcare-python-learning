@@ -61,6 +61,19 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - git merge branch-name — merge changes into current branch
 - git branch -d branch-name — delete a branch
 
+### Week 8: SQL Fundamentals
+- Creating databases with createdb
+- Creating tables with CREATE TABLE
+- Data types: SERIAL, VARCHAR, INTEGER, NUMERIC, TIMESTAMP, DATE
+- Primary keys and foreign keys
+- CRUD operations: INSERT, SELECT, UPDATE, DELETE
+- Filtering with WHERE
+- Sorting with ORDER BY
+- Joining tables with JOIN
+- Table aliases
+- Aggregate functions: COUNT, AVG, MIN, MAX
+- Grouping with GROUP BY
+
 ## Environment Setup
 - [x] Python 3.12 installed via Homebrew
 - [x] VS Code configured with Python extensions

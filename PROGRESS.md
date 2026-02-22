@@ -74,6 +74,14 @@ Week 2, Exercise 5 - Multi-patient vital signs tracker
 - Aggregate functions: COUNT, AVG, MIN, MAX
 - Grouping with GROUP BY
 
+### Week 9: Intermediate SQL
+- Subqueries for filtering based on calculated values
+- Multiple JOINs to combine three or more tables
+- LEFT JOIN to include rows without matches
+- HAVING to filter grouped results
+- CASE statements for conditional logic in queries
+- Creating views to save complex queries
+
 ## Environment Setup
 - [x] Python 3.12 installed via Homebrew
 - [x] VS Code configured with Python extensions
